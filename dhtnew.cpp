@@ -53,7 +53,7 @@
 //  0.4.12 2022-01-31  Fix #72, delayMicroseconds() for wakeUp
 //  0.4.13 2022-07-05  Fix #76, disable interrupts for ESP32.
 //submodule test
-
+//random
 
 #include "dhtnew.h"
 #include <stdint.h>
